@@ -17,6 +17,7 @@ Instruments:
 <p align="left">
 <a target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" width="36" height="36" alt="phpstorm" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="36" height="36" alt="composer" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="git" /></a>
 </p>
 
 * ✉️  contact [usefullforit@gmail.com](mailto:usefullforit@gmail.com)
